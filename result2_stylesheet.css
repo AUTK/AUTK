@@ -1,0 +1,185 @@
+h1 {
+	font-size: 14px;
+}
+.top_page {
+	height: 600px;
+	border-bottom: 2px solid #959595;
+}
+body {
+  color: #959595;
+}
+header {
+  border-bottom: 1px solid #959595;
+  height: 30px;
+  padding: 0 30px;
+ }
+ .twitter {
+   height: 25px;
+   weight: 25px;
+   position: absolute;
+   top: 10px;
+   right: 460px;
+ }
+
+ .facebook {
+ 	height: 25px;
+ 	weight: 25px;
+ 	position: absolute;
+ 	top: 10px;
+ 	right: 260px;
+ }
+.header-title {
+  padding-top: 7px;
+  font-size: 16px;
+  margin: 0;
+  float: left;
+}
+.header-list {
+  float: right;
+  padding-top: 0px;
+}
+.header-list li {
+    list-style: none;
+    padding-right: 150px;
+    font-size: 14px;
+    float: left;
+		margin-top: -10px;
+}
+
+.idea {
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  -webkit- transform: translateY(-50%) translateX(-50%);
+}
+
+/* Activities */
+.activities {
+  height: 600px;
+  border-bottom: 2px solid #959595;
+}
+
+.title_activities {
+  text-align: center;
+  text-decoration: underline;
+  padding-bottom: 30px;
+  font-size: 16px;
+}
+
+.main_activities {
+    text-align: center;
+
+  }
+
+  .place {
+    padding: 10px;
+  }
+
+  .pjt {
+    padding: 10px;
+  }
+  p {
+    font-size: 13px;
+    margin: 0;
+  }
+
+	/* Representative */
+	.representative {
+	  height: 600px;
+	  border-bottom: 2px solid #959595;
+	}
+
+	.main_representative {
+	  position: absolute;
+	  left: 45%;
+	}
+	.title_representative {
+	  text-align: center;
+	  text-decoration: underline;
+	  padding-bottom: 30px;
+	  font-size: 16px;
+	}
+
+	.yohane {
+	  width: 250px;
+	}
+
+	.representative1 {
+	  margin-top: 10px;
+	}
+
+	.kouki {
+	  width: 250px;
+	}
+
+	.representative2 {
+	  margin-top: 10px;
+	}
+
+	.introduction {
+	  margin: 0;
+	}
+
+	/* Contact */
+	.contact {
+	  height: 600px;
+	  border-bottom: 2px solid #959595;
+	}
+
+	.title_contact {
+	  text-align: center;
+	  text-decoration: underline;
+	  padding-bottom: 100px;
+	  font-size: 16px;
+	}
+
+	.container {
+	  border: 2px solid #999999;
+	  width: 800px;
+	  height: 300px;
+	  margin: 0 auto;
+	}
+
+	.message {
+	  float:left;
+	  margin: 15px 10px;
+	  height: 250px;
+	  width: 220px;
+	  border: 2px solid #999999;
+		font-size: 15px;
+	}
+	.name, .address {
+	  position: absolute;
+	  left: 45%;
+	}
+
+	.name {
+	  padding-top: 12px;
+	}
+
+	.address {
+	  padding-top: 115px;
+	}
+
+	.name_text, .address_text {
+	  float:left;
+	  border: 2px solid #999999;
+	  width: 450px;
+	  height: 30px;
+		font-size: 15px;
+		margin-top: 72px;
+	  margin-left: 45px;
+	}
+
+	.send {
+	  font-size: 20px;
+		color: #959595;
+	  width: 150px;
+	  border: none;
+	  text-decoration: underline;
+	  position: absolute;
+	  top: 2200px;
+	  left: 880px;
+	}
