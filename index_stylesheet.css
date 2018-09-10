@@ -143,6 +143,8 @@ li {
 .representative p {
   font-size: 16px;
 }
+.text1, .text2, .text3 {
+  font-size: 14px;
 .text2 p {
   margin: 0;
 }
